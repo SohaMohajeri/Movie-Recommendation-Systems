@@ -6,13 +6,13 @@ They are used to predict the rating or preference that a user would give to an i
 
 There are mainly three types of recommender systems:
 
-Demographic Recommender
+ - Demographic Recommender:
 It offers generalized recommendations to every user, based on movie popularity. This system recommends the same movies with similar demographic features to all users and it does not give personalized recommendations to users.
-Content-Based Recommender
 
+- Content-Based Recommender:
 It builds an engine that computes similarity between movies based on certain metrics (such as genre, director, description, actors, etc.) and suggests movies that are most similar to a particular movie that a user liked. The general idea behind these recommender systems is that if a person liked a particular item, he or she will also like an item that is similar to it.
-Collaborative Recommender
 
+- Collaborative Recommender:
 This system matches persons with similar interests and provides recommendations based on this matching. Collaborative filtering is based on the idea that users similar to a particular user can be used to predict how much that particular user will like a particular product or service those users have used/experienced but that particular user has not.
 In this notebook, we will use MovieLens datasets and implement three recommendation algorithms including Demographic, Content-Based and Collaborative Filtering, and finally try to build an ensemble of these models to come up with our final Hybrid ecommendation system.
 
