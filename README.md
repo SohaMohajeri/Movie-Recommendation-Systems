@@ -1,4 +1,4 @@
-                                                      # Movie-Recommendation-Systems
+# <center> Movie Recommendation Systems </center>
 
 ![13](https://user-images.githubusercontent.com/69224996/96219766-614fb480-0f3c-11eb-8aed-4a7b4c882f12.png)
 
