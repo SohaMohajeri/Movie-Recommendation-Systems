@@ -1,6 +1,17 @@
+<div align="center">
+  
 # Movie Recommendation Systems 
+</div>
 
-![13](https://user-images.githubusercontent.com/69224996/96219766-614fb480-0f3c-11eb-8aed-4a7b4c882f12.png)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/69224996/96219766-614fb480-0f3c-11eb-8aed-4a7b4c882f12.png" >
+</div>
+
+<br /> 
+
+
+<div align="justify">
 
 The rapid growth of data collection has led to a new era of information. Data is being used to create more efficient systems and this is where Recommendation Systems come into play. Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are realted to the search history of the user.
 
@@ -22,3 +33,7 @@ The MovieLens datasets include the following data:
  - "tmdb_5000_credits" 
  - "tmdb_5000_movies" 
  - "ratings_small" 
+
+
+</div>
+
