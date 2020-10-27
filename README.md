@@ -27,12 +27,9 @@ It builds an engine that computes similarity between movies based on certain met
 
 - **Collaborative Recommender:**
 This system matches persons with similar interests and provides recommendations based on this matching. Collaborative filtering is based on the idea that users similar to a particular user can be used to predict how much that particular user will like a particular product or service those users have used/experienced but that particular user has not.
-In this notebook, we will use MovieLens datasets and implement three recommendation algorithms including Demographic, Content-Based and Collaborative Filtering, and finally try to build an ensemble of these models to come up with our final Hybrid ecommendation system.
 
-The MovieLens datasets include the following data:
- - "tmdb_5000_credits" 
- - "tmdb_5000_movies" 
- - "ratings_small" 
+In this notebook, we will use MovieLens Datasets (including tmdb_5000_credits, tmdb_5000_movies and ratings_small) and implement three recommendation algorithms including Demographic, Content-Based and Collaborative Filtering, and finally try to build an ensemble of these models to come up with our final Hybrid Recommendation System.
+
 
 
 </div>
