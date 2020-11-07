@@ -31,6 +31,5 @@ This system matches persons with similar interests and provides recommendations 
 In this notebook, we will use MovieLens Datasets (including tmdb_5000_credits, tmdb_5000_movies and ratings_small) and implement three recommendation algorithms including Demographic, Content-Based and Collaborative Filtering, and finally try to build an ensemble of these models to come up with our final Hybrid Recommendation System.
 
 
-
 </div>
 
