@@ -3,13 +3,11 @@
 # Movie Recommendation Systems 
 </div>
 
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/96219766-614fb480-0f3c-11eb-8aed-4a7b4c882f12.png" >
 </div>
 
 <br /> 
-
 
 <div align="justify">
 
